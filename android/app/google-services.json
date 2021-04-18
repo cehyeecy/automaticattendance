@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "181511258715",
+    "firebase_url": "https://automatic-attendance.firebaseio.com",
+    "project_id": "automatic-attendance",
+    "storage_bucket": "automatic-attendance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181511258715:android:72777ac781764f9e",
+        "android_client_info": {
+          "package_name": "com.example.automatic_attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181511258715-1s6vnil9v7h7t7cuoggmi479vhoka5io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDM9FRc7xrW73vQlnB23BPtq4_qlS5NWKE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181511258715-1s6vnil9v7h7t7cuoggmi479vhoka5io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
